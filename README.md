@@ -26,3 +26,7 @@ Aprender a controlar versiones, usar ramas, Pull Requests y colaboracion sobre u
 ## Autor
 
 Cesar Barragan
+
+## Estado del proyecto
+
+Prototipo inicial.
